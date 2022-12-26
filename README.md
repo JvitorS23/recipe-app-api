@@ -1,3 +1,3 @@
 # recipe-app-api
 
-Recipe API project.
+Recipe API project TDD.
